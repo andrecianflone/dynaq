@@ -1,5 +1,5 @@
 # Author: Andre Cianflone
-# Based on:
+# Some code Based on:
 # https://github.com/deepmind/pycolab/blob/master/pycolab/examples/classics/four_rooms.py
 # Added wrapper so behaves more like gym
 
